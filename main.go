@@ -4,7 +4,6 @@ import (
 	"flag"
 	"log"
 	"net/http"
-	"golang.org/x/net/websocket"
 )
 
 func main()  {
