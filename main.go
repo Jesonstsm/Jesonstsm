@@ -2,9 +2,9 @@ package main
 
 import (
 	"flag"
-	"golang.org/x/net/websocket"
 	"log"
 	"net/http"
+	"golang.org/x/net/websocket"
 )
 
 func main()  {
